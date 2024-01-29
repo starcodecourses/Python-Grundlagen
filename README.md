@@ -1,7 +1,7 @@
 # **Python Grundlagenkurs**
 → Kursinhalt für einen 10-wöchigen Kurs 
 
-[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/starcodecourses/Python-Grundlagen/HEAD) [![Open in Colab] (https://colab.research.google.com/assets/colab—badge.svg)](https://mybinder.org/v2/gh/starcodecourses/Python-Grundlagen/HEAD)
+[![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/starcodecourses/Python-Grundlagen/HEAD) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://mybinder.org/v2/gh/starcodecourses/Python-Grundlagen/HEAD)
 
 ### Erste Stunde: Kennenlernen 
 1. Vorstellungsrunde/Kennenlernspiel
