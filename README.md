@@ -9,7 +9,7 @@
 3. Erwartungen an den Kurs besprechen
 4. Binder/Colab erklären und es bei allen zum Laufen bringen
 
-### Woche 0: Einführung zur nuzung von Jupyter Notebooks
+### Woche 0: Einführung zur Nutzung von Jupyter Notebooks
 
 ### Woche 1: Hello World!
 - Textausgabe (`print()`)
